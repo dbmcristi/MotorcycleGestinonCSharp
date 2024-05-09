@@ -1,0 +1,13 @@
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\JDBCUtilsModule\bin\Debug\x86\sqlite3.dll
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\JDBCUtilsModule\bin\Debug\x64\sqlite3.dll
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\JDBCUtilsModule\bin\Debug\JDBCUtilsModule.exe
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\JDBCUtilsModule\bin\Debug\JDBCUtilsModule.pdb
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\JDBCUtilsModule\bin\Debug\DomainModule.exe
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\JDBCUtilsModule\bin\Debug\System.Data.SQLite.dll
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\JDBCUtilsModule\bin\Debug\DomainModule.pdb
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\JDBCUtilsModule\bin\Debug\System.Data.SQLite.xml
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\JDBCUtilsModule\obj\Debug\JDBCUtilsModule.csproj.AssemblyReference.cache
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\JDBCUtilsModule\obj\Debug\JDBCUtilsModule.csproj.CoreCompileInputs.cache
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\JDBCUtilsModule\obj\Debug\JDBCUtilsModule.csproj.CopyComplete
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\JDBCUtilsModule\obj\Debug\JDBCUtilsModule.exe
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\JDBCUtilsModule\obj\Debug\JDBCUtilsModule.pdb

@@ -1,0 +1,15 @@
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\RepoModule\bin\Debug\x86\sqlite3.dll
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\RepoModule\bin\Debug\x64\sqlite3.dll
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\RepoModule\bin\Debug\RepoModule.exe
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\RepoModule\bin\Debug\RepoModule.pdb
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\RepoModule\bin\Debug\DomainModule.exe
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\RepoModule\bin\Debug\System.Data.SQLite.dll
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\RepoModule\bin\Debug\DomainModule.pdb
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\RepoModule\bin\Debug\System.Data.SQLite.xml
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\RepoModule\obj\Debug\RepoModule.csproj.AssemblyReference.cache
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\RepoModule\obj\Debug\RepoModule.csproj.CoreCompileInputs.cache
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\RepoModule\obj\Debug\RepoModule.csproj.CopyComplete
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\RepoModule\obj\Debug\RepoModule.exe
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\RepoModule\obj\Debug\RepoModule.pdb
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\RepoModule\bin\Debug\JDBCUtilsModule.exe
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\RepoModule\bin\Debug\JDBCUtilsModule.pdb

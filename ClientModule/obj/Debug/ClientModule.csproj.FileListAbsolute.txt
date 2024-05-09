@@ -1,0 +1,6 @@
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ClientModule\bin\Debug\ClientModule.exe
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ClientModule\bin\Debug\ClientModule.pdb
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ClientModule\obj\Debug\ClientModule.csproj.AssemblyReference.cache
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ClientModule\obj\Debug\ClientModule.csproj.CoreCompileInputs.cache
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ClientModule\obj\Debug\ClientModule.exe
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ClientModule\obj\Debug\ClientModule.pdb

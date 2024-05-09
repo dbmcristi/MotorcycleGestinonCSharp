@@ -1,0 +1,17 @@
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ServiceModule\bin\Debug\x86\sqlite3.dll
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ServiceModule\bin\Debug\x64\sqlite3.dll
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ServiceModule\bin\Debug\ServiceModule.exe
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ServiceModule\bin\Debug\ServiceModule.pdb
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ServiceModule\bin\Debug\DomainModule.exe
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ServiceModule\bin\Debug\RepoModule.exe
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ServiceModule\bin\Debug\System.Data.SQLite.dll
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ServiceModule\bin\Debug\DomainModule.pdb
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ServiceModule\bin\Debug\RepoModule.pdb
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ServiceModule\bin\Debug\System.Data.SQLite.xml
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ServiceModule\obj\Debug\ServiceModule.csproj.AssemblyReference.cache
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ServiceModule\obj\Debug\ServiceModule.csproj.CoreCompileInputs.cache
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ServiceModule\obj\Debug\ServiceModule.csproj.CopyComplete
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ServiceModule\obj\Debug\ServiceModule.exe
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ServiceModule\obj\Debug\ServiceModule.pdb
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ServiceModule\bin\Debug\JDBCUtilsModule.exe
+D:\FACULTATE_23-24\mpp23-24\gitClones\mpp-proiect-csharp-dbmcristi\MotoGestion\SubaruImpreza\ServiceModule\bin\Debug\JDBCUtilsModule.pdb
